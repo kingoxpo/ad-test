@@ -1,5 +1,3 @@
-README.md 파일을 다음과 같이 작성하겠습니다:
-
 ```markdown
 # Adrop Test Advertisement API Project
 
