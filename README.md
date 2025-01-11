@@ -25,9 +25,13 @@ npm run test:watch
 ## API 엔드포인트
 
 테스트 광고 요청:
-```
+```bash
+# 로컬 환경
+GET http://localhost:3000/ad?unit=PUBLIC_TEST_UNIT_ID_375_80&uid=test-user&pf=android&lcl=ko-KR
+
+# API 형식
 GET /ad?unit=PUBLIC_TEST_UNIT_ID_375_80&uid=test-user&pf=android&lcl=ko-KR
-```
+
 
 ### 파라미터
 - unit: 광고 유닛 ID (예: PUBLIC_TEST_UNIT_ID_375_80)
