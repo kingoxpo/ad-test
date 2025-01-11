@@ -31,7 +31,7 @@ GET http://localhost:3000/ad?unit=PUBLIC_TEST_UNIT_ID_375_80&uid=test-user&pf=an
 
 # API 형식
 GET /ad?unit=PUBLIC_TEST_UNIT_ID_375_80&uid=test-user&pf=android&lcl=ko-KR
-
+```
 
 ### 파라미터
 - unit: 광고 유닛 ID (예: PUBLIC_TEST_UNIT_ID_375_80)
