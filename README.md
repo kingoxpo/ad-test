@@ -1,11 +1,8 @@
-```markdown
-# Adrop Test Advertisement API Project
-
 광고 테스트를 위한 NestJS 기반 API 프로젝트입니다.
 
 ## 설치 및 실행
 
-```bash
+```
 # 패키지 설치
 npm install
 
